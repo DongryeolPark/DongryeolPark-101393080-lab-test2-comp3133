@@ -40,19 +40,19 @@ src/
 ## 📸 Screenshots
 
 ### 🔹 Main Mission List Page
-![Mission List](src/assets/screenshots/missionlist.png)
+![Mission List](./src/assets/screenshots/Full%20screen.png)
 
 ### 🔹 Filters Applied (Successful Launch + Landing)
-![Filter Success](src/assets/screenshots/filter-success-success.png)
+![Filter Success](./src/assets/screenshots/success.png)
 
 ### 🔹 Filters Applied (Failed Launch + Successful Landing)
-![Filter Launch Fail](src/assets/screenshots/filter-fail-success.png)
+![Filter Launch Fail](./src/assets/screenshots/fail%20success.png)
 
 ### 🔹 Filters Applied (Successful Launch + Failed Landing)
-![Filter Landing Fail](src/assets/screenshots/filter-success-fail.png)
+![Filter Landing Fail](./src/assets/screenshots/success%20fail.png)
 
 ### 🔹 Filters Applied (Failed Launch + Failed Landing)
-![Filter All Fail](src/assets/screenshots/filter-fail-fail.png)
+![Filter All Fail](./src/assets/screenshots/fail%20fail.png)
 
 ---
 
@@ -75,7 +75,7 @@ Upload the `dist/` folder to your preferred static host.
 
 ## 📚 Additional Resources
 
-For more info on Angular CLI:
+For more info on Angular CLI:  
 [Angular CLI Documentation](https://angular.dev/tools/cli)
 
 ---
