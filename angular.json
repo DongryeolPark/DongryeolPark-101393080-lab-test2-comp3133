@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "101415063-lab-test2-comp3133": {
+    "101393080-lab-test2-comp3133": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/101415063-lab-test2-comp3133",
+            "outputPath": "dist/101393080-lab-test2-comp3133",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "101415063-lab-test2-comp3133:build:production"
+              "buildTarget": "101393080-lab-test2-comp3133:build:production"
             },
             "development": {
-              "buildTarget": "101415063-lab-test2-comp3133:build:development"
+              "buildTarget": "101393080-lab-test2-comp3133:build:development"
             }
           },
           "defaultConfiguration": "development"
